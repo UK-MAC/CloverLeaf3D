@@ -16,3 +16,7 @@ This is the default versions, forked from the [2D CloverLeaf reference version](
 ## [OpenACC Implementation](https://github.com/Warwick-PCAV/CloverLeaf_OpenACC_3D)
 
 This is the OpenACC offload implementation of CloverLeaf3D.
+
+## [OpenCL Implementation](https://github.com/Warwick-PCAV/CloverLeaf3D_OpenCL)
+
+This is the OpenCL offload implementation of CloverLeaf3D.
