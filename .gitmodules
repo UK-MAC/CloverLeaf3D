@@ -1,9 +1,9 @@
 [submodule "CloverLeaf3D_ref"]
 	path = CloverLeaf3D_ref
-	url = git@github.com:Warwick-PCAV/CloverLeaf3D_ref.git
+	url = https://github.com/UK-MAC/CloverLeaf3D_ref.git
 [submodule "CloverLeaf_OpenACC_3D"]
 	path = CloverLeaf_OpenACC_3D
-	url = git@github.com:Warwick-PCAV/CloverLeaf_OpenACC_3D.git
+	url = https://github.com/UK-MAC/CloverLeaf_OpenACC_3D.git
 [submodule "CloverLeaf3D_OpenCL"]
 	path = CloverLeaf3D_OpenCL
-	url = git@github.com:Warwick-PCAV/CloverLeaf3D_OpenCL.git
+	url = https://github.com/UK-MAC/CloverLeaf3D_OpenCL.git
